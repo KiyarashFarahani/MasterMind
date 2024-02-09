@@ -1,0 +1,6 @@
+1,Admin,admin,0
+2,Kiyarash,k1234,125
+3,cat,meow,160
+4,doorAzJoon,doorAzJoon,120
+5,Someone,somePassword,65
+6,theCoolGamer,helloworld,0
